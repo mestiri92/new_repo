@@ -1,3 +1,7 @@
 first line 
 secone line
+<<<<<<< HEAD
 my checkout test 
+=======
+third line
+>>>>>>> e1cdf837e90cbfdce5037e9d0b2a1197f4a014b7
